@@ -1,4 +1,4 @@
-use mdbook_wikilinks::WikiLinks;
+use mdbook_wikilink0::WikiLinks;
 
 use clap::{App, Arg, SubCommand};
 use mdbook::{

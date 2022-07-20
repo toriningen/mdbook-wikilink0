@@ -1,13 +1,14 @@
 [package]
-name = "mdbook-wikilinks"
+name = "mdbook-wikilink0"
 description = "Support for wikilinks on mdBook."
-version = "0.4.0"
+version = "0.4.1"
 authors = [
     "Victor Freire <victor@freire.dev.br>",
     "Leo Silva Souza <leovano@protonmail.com>",
     "Knut Magnus Aasrud <km@aasrud.com>",
     "Xiangru Lian <admin@mail.xrlian.com>",
 ]
+repository = "https://github.com/toriningen/mdbook-wikilink0"
 edition = "2018"
 license = "MIT"
 readme = "README.md"
